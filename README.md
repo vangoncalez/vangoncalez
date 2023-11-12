@@ -1,10 +1,6 @@
 ### Olá, eu sou a Vanessa Gonçalez 👋
 
- <div>
-  <a href="https://github.com/vangoncalez">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vangoncalez&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangoncalez&layout=compact&langs_count=10&theme=onedark"/>
-</div>
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Van-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="center" alt="Van-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
